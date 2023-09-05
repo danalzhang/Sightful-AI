@@ -18,6 +18,10 @@
 .env.test.local
 .env.production.local
 
+badWord.csv
+curseWord.csv
+hateWords.csv
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
